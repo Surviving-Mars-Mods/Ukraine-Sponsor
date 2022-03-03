@@ -1,5 +1,2 @@
-#Version 1.1
- - Initial Release
-
-Version 1.0
- - Had an idea
+##Version 1.0
+ - Requested by /u/GalacticAnimeGirl at https://www.reddit.com/r/SurvivingMars/comments/t5b24a/mod_idea_ukraine_as_sponsor/

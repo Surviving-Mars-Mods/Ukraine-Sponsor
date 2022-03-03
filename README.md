@@ -1,8 +1,14 @@
-## Ukraine Sponsor
+## [WIP] Ukraine Sponsor
   - Ukrainian sponsor as a show of solidarity in the Ukraine-Russian war of 2022.
 
 ### Description:
 Ukrainian sponsor as a show of solidarity in the Ukraine-Russian war of 2022. This is a community project proposed by /u/GalacticAnimeGirl here: https://www.reddit.com/r/SurvivingMars/comments/t5b24a/mod_idea_ukraine_as_sponsor/
+
+Please feel free to contribute to this project at: https://github.com/Surviving-Mars-Mods/Ukraine-Sponsor
+
+Additional ideas are welcomed on the reddit post above.
+
+Thanks everyone! <3
 
 ### Options:
     This mod does not have any options.
