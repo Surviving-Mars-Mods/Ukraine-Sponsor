@@ -1,15 +1,11 @@
-## Template Mod
- - Template Point 1
+## Ukraine Sponsor
+  - Ukrainian sponsor as a show of solidarity in the Ukraine-Russian war of 2022.
 
 ### Description:
-This is a super great mod!
+Ukrainian sponsor as a show of solidarity in the Ukraine-Russian war of 2022. This is a community project proposed by /u/GalacticAnimeGirl here: https://www.reddit.com/r/SurvivingMars/comments/t5b24a/mod_idea_ukraine_as_sponsor/
 
 ### Options:
-This mod has lots of options!
-
-    Pick Your Poision
-        Yummy
-        Yucky
+    This mod does not have any options.
 
 
 ## Notes:
