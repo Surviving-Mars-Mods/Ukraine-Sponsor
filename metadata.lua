@@ -1,5 +1,5 @@
 return PlaceObj('ModDef', {
-	'title', "Template",
+	'title', "Ukrainian Sponsor",
 	'description', "This mod is still a work in progress. Please hop in discord to help test or provide feedback. :)   https://discord.gg/kTgYq9UjWx",
 	'image', "Images/thumbnail.png",
 	'last_changes', "https://github.com/Surviving-Mars-Mods/Ukraine-Sponsor",
@@ -22,17 +22,13 @@ return PlaceObj('ModDef', {
 	},
 	'id', "UKRAINE2022",
 	'steam_id', "",
-	'pops_desktop_uuid', "",
-	'pops_any_uuid', "",
+	'pops_desktop_uuid', "5f7e3bd5-efca-4aba-b5b0-ddb4255296ee",
+	'pops_any_uuid', "93e43deb-0ffa-49ff-9645-104057165d80",
 	'author', "Fizzle Fuze",
 	'version_major', 1,
 	'version_minor', 1,
 	'version', 69,
 	'lua_revision', 1009413,
 	'saved_with_revision', 1010838,
-	'code', {
-		"Code/Code.lua",
-	},
-	'saved', 1645033554,
-	'has_options', 'true',
+	'saved', 1646320611,
 })

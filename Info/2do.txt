@@ -1,13 +1,16 @@
 --2do:
- - more colonists have Enthusiast and Composed traits
- - all colonists have Survivor trait
- - less penalty to Sanity
- - special Mriya-class cargo rockets that can't carry colonists but have massive cargo capacity
- - Salvaged RC - significantly cheaper than RC transport but with reduced capacity and functions as a meteor defense when stationary
- - Export price is low-ish
- - Blackdirt Farm - farm with innate +25 performance boost, but can only be purchased as a prefab which costs $100 and weighs 4000. Can be built locally after Utility Crops is researched.
- - Ukraine has access to unique crop, the sunflower, which grows in 2 sols, requires .3 water/sol, and has an optimal harvest of 15 food while producing .1 oxygen/sol.
- - After researching Gene Adaptation, Ukraine gains access to Breadbasket Wheat, which grows in 2 sols, requires 1 water/sol, produces .3 oxygen/sol, and has an optimal harvest of 25 food.
- - Can't get applicants normal way but will regularly receive refugees (similarly to event refugees in vanilla, first wave or refugees will have "founder" trait. )
- - Food import price greatly reduced
- - Initial lower standing with Russian colony
+    - Add Ukraine as a nation in the game for birthplace
+    - more colonists have Enthusiast and Composed traits
+    - less penalty to Sanity
+    - special Mriya-class cargo rockets that can't carry colonists but have massive cargo capacity
+    - Salvaged RC - significantly cheaper than RC transport but with reduced capacity and functions as a meteor defense when stationary
+    - Blackdirt Farm - farm with innate +25 performance boost, but can only be purchased as a prefab which costs $100 and weighs 4000. Can be built locally after Utility Crops is researched.
+    - Ukraine has access to unique crop, the sunflower, which grows in 2 sols, requires .3 water/sol, and has an optimal harvest of 15 food while producing .1 oxygen/sol.
+    - After researching Gene Adaptation, Ukraine gains access to Breadbasket Wheat, which grows in 2 sols, requires 1 water/sol, produces .3 oxygen/sol, and has an optimal harvest of 25 food.
+    - Food import price greatly reduced
+    - Initial lower standing with Russian colony
+
+DONE:
+    - all colonists have Survivor trait
+    - Export price is low-ish
+    - [Needs Testing] Can't get applicants normal way but will regularly receive refugees (similarly to event refugees in vanilla, first wave or refugees will have "founder" trait. )
